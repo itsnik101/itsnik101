@@ -120,15 +120,6 @@ I engineer production-grade machine learning pipelines, asynchronous web systems
 
 ---
 
-## 📈 GitHub Metrics & Profile Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnik101&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnik101&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 📬 Connect With Me
 
 * 💼 **LinkedIn**: https://www.linkedin.com/in/nikhil-rawat-1b5059250/
