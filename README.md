@@ -102,23 +102,6 @@ I engineer production-grade machine learning pipelines, asynchronous web systems
 
 ---
 
-### 4. ⚙️ Industrial AI Predictive Maintenance System
-> **IoT Telemetry Signal Processing & Asset Health Index Pipeline**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-* **Overview**: Designed an end-to-end time-series predictive maintenance framework modeling physical degradation across heavy industrial process equipment.
-* **Architecture & Innovation**:
-  * **Signal Processing & Noise Reduction**: Applied Savitzky-Golay filtering and rolling temporal aggregates (kurtosis, variance, lag metrics) to filter high-frequency sensor noise.
-  * **Remaining Useful Life (RUL) Modeling**: Trained gradient boosted regressor pipelines evaluated via `TimeSeriesSplit` (Walk-Forward Validation) to prevent sequential lookahead data leakage.
-  * **Unsupervised Anomaly Detection**: Built a PyTorch Autoencoder to model reconstruction error thresholds, capturing early-stage degradation windows in highly imbalanced time-series data.
-  * **Operator Control Room Dashboard**: Built a Streamlit application rendering real-time "Asset Health Index (0-100%)" indicators and SHAP feature attributions.
-* 🔗 **[View Repository](https://github.com/itsnik101/Industrial-Predictive-Maintenance)**
-
----
 
 ## 📬 Connect With Me
 
