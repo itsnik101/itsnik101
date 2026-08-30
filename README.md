@@ -61,7 +61,7 @@ I engineer production-grade machine learning pipelines, asynchronous web systems
   * **Deterministic Hashing Cache**: Implemented SHA-256 cryptographic signature hashing on script inputs to achieve sub-millisecond cache hits and avoid redundant API costs.
   * **Fail-Safe OS Swaps**: Utilized isolated temporary files (`tempfile`) and atomic OS-level moves (`shutil.move`) to eliminate mid-write disk corruptions.
   * **Vector Discovery Engine**: Deployed `SentenceTransformers` mapped to a FAISS `IndexFlatIP` vector database, using $L_2$ normalization to convert fast inner product calculations into exact Cosine Similarity.
-* 🔗 **[View Repository]([https://github.com/itsnik101/End-to-end-audio-transcreation])**
+* 🔗 **[View Repository](https://github.com/itsnik101/End-to-end-audio-transcreation)**
 
 ---
 
